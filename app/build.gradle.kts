@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.hokama.apptelas"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.hokama.apptelas"
